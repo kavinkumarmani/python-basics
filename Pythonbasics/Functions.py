@@ -28,6 +28,7 @@ def frequentnames(list):
         
 frequentnames(name)
 
+#Checking
 #to find factorial of the number using recrusion function
 
 def fact(j):
